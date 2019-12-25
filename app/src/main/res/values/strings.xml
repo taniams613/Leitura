@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Leitura</string>
+
+    <!-- Mensagem inicial-->
+    <string name="init">Escolha "Abrir" no menu do canto superior direito para ler um ficheiro.</string>
+
+    <!-- Menus -->
+    <!-- <string name="novo">Novo</string> -->
+    <string name="abrir">Abrir Ficheiro</string>
+    <string name="sobre">Sobre a App</string>
+    <string name="idioma">Mudar Idioma</string>
+</resources>
